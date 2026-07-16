@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Financito",
+    "slug": "financito-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "financito",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D1B2A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.leavalos.financito"
+    },
+    "newArchEnabled": true
+  }
+}
